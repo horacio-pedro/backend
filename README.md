@@ -1,4 +1,0 @@
-# backend
-aslxmlcmlamdlsLSLmlSLÇ
-sçlcmlMLDsmclmLSMlmLSMlmLSÇ
-csmADcmlmcLÇsmclçA
