@@ -5,7 +5,11 @@
   "repository": "https://github.com/horacio-pedro/backend.git",
   "author": "Horácio Pedro <46960527+horacio-pedro@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
   }
 }
